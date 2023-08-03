@@ -25,7 +25,7 @@ int main() {
     printf( "Last Name: \n") ;
     scanf( "%s", &DEF);
    
-    printf( "%s %s TC, RMUTL, Chiang Mai, Thailand", ABC, DEF ) ;
+    printf( "%s %ss TC, RMUTL, Chiang Mai, Thailand", ABC, DEF ) ;
 
     
 }
