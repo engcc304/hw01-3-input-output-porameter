@@ -27,5 +27,5 @@ int main() {
    
     printf( "%s %s TC, RMUTL, Chiang Mai, Thailand", ABC, DEF ) ;
 
-    return 0 ;
+    
 }
