@@ -17,15 +17,15 @@
 
 int main() {
     
-    char ABC[20], DEF[20] ;
+    char ABC[20], DEF[20] ;//Define a variable to hold the name max20 char. 
     
     printf( "First Name: \n" ) ;
-    scanf( "%s", &ABC);
+    scanf( "%s", &ABC); //Store the fiest name in a variable.
     
     printf( "Last Name: \n") ;
-    scanf( "%s", &DEF);
+    scanf( "%s", &DEF); //Store the last name in a variable.
    
-    printf( "%s %ss TC, RMUTL, Chiang Mai, Thailand", ABC, DEF ) ;
+    printf( "%s %ss TC, RMUTL, Chiang Mai, Thailand", ABC, DEF ) ; //output name on display
 
-    
-}
+    return 0 ;
+}//end fuction
